@@ -1,10 +1,10 @@
-package com.bit.userapi;
+package com.bit.userservice.userservice;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class UserApiApplicationTests {
+class UserServiceApplicationTests {
 
     @Test
     void contextLoads() {
